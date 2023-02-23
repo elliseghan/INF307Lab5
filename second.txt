@@ -1,1 +1,2 @@
 This is our second file
+Now we are making changes from the local repo
